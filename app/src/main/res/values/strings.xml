@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">AppCustoViagem</string>
+    <string name="txt_Title">Custo de Viagem</string>
+    <string name="txtDistancia">Distância</string>
+    <string name="txtTotalKM">Total de Quilometros</string>
+    <string name="txtPreco">Preço</string>
+    <string name="txtPrecoLitro">Preço por Litro</string>
+    <string name="txtAutonomia">Autonomia</string>
+    <string name="txtKM">KMs por Litro</string>
+    <string name="txtTitleOutput">SEU GASTO TOTAL SERÁ DE:</string>
+    <string name="txtOutput">R$ 0</string>
+    <string name="txtButton">CALCULAR</string>
 </resources>
